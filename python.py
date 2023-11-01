@@ -18,7 +18,7 @@ word_length = len(chosen_word)
 end_of_game = False
 lives = 4
 
-
+print(Fore.LIGHTMAGENTA_EX+logo)
 print(Fore.LIGHTGREEN_EX+"Voice 1: Oh! You have arrived. I was waiting for you.\n Welcome to the next level.")
 print(Fore.CYAN+"*You hear a very calming and soothing voice and what seems to be the sound of an harp...*")
 print(Fore.LIGHTRED_EX+"Voice 2: Master, who is this human?")
@@ -71,7 +71,7 @@ while not end_of_game:
         end_of_game = True
         print(Fore.GREEN+"You win! Congratulations, looks like you are wise after all. The element was 'air' and u won 'wisdom'. You can pass to the next level.")
 
-print(Fore.YELLOW+''' 
+print(Fore.LIGHTMAGENTA+''' 
       ,        ,--,
        \\ _ ___/ /\\|
         ( )__, )
