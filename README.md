@@ -1,4 +1,4 @@
-✨Hangman Game.✨
+#✨Hangman Game.✨
 Do you remember that guessing game that will draw you a little man for every letter you guess wrong? Well, I recreated it but with a little twist... Curious how it works? Keep reading! This project is a game that I created with what I knew about hangman. I combined the traditional hangman game with a bit of ascii art and creativity. The game goes like this:
 
 ⭐️ 𝔉𝔦𝔯𝔰𝔱 𝔬𝔣 𝔞𝔩𝔩 𝔶𝔬𝔲 𝔴𝔦𝔩𝔩 𝔣𝔦𝔫𝔡 𝔶𝔬𝔲𝔯𝔰𝔢𝔩𝔣 𝔦𝔫 𝔞 𝔩𝔦𝔱𝔱𝔩𝔢 𝔰𝔱𝔬𝔯𝔶 𝔩𝔦𝔫𝔢 𝔱𝔥𝔞𝔱 𝔴𝔦𝔩𝔩 𝔪𝔞𝔨𝔢 𝔶𝔬𝔲 𝔲𝔫𝔡𝔢𝔯𝔰𝔱𝔞𝔫𝔡 𝔱𝔥𝔢 𝔠𝔬𝔫𝔱𝔢𝔵𝔱 𝔬𝔣 𝔱𝔥𝔢 𝔰𝔦𝔱𝔲𝔞𝔱𝔦𝔬𝔫 𝔞𝔫𝔡 𝔴𝔥𝔞𝔱 𝔱𝔬 𝔡𝔬 𝔫𝔢𝔵𝔱.
